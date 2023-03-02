@@ -1,0 +1,22 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "O que você faz hoje, pode melhorar todos os seus amanhãs.",
+      "autor": "Ralph Marston",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 2,
+      "conteudo": "AngularJS é um framework para aplicações web dinâmicas.",
+      "autor": "Google",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 3,
+      "conteudo": "React é uma biblioteca JavaScript para criar interfaces de usuário.",
+      "autor": "Facebook",
+      "modelo": "modelo3"
+    }
+  ]
+}
